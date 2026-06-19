@@ -22,7 +22,7 @@ jobs:
 
       # Step 3: Run the application
       - name: Run application
-        run: python app.py
+        run: pythonn app.py
 
       # Step 4: Echo success message
       - name: Build Success
